@@ -1,0 +1,9 @@
+C:\CODE\trunk\Key\Cairn\bin\Debug\Cairn.dll
+C:\CODE\trunk\Key\Cairn\bin\Debug\Cairn.pdb
+C:\CODE\trunk\Key\Cairn\obj\Debug\Cairn.dll
+C:\CODE\trunk\Key\Cairn\obj\Debug\Cairn.pdb
+C:\CODE\trunk\Cairn\Cairn\bin\Debug\Cairn.dll
+C:\CODE\trunk\Cairn\Cairn\bin\Debug\Cairn.pdb
+C:\CODE\trunk\Cairn\Cairn\obj\Debug\Cairn.csprojResolveAssemblyReference.cache
+C:\CODE\trunk\Cairn\Cairn\obj\Debug\Cairn.dll
+C:\CODE\trunk\Cairn\Cairn\obj\Debug\Cairn.pdb
